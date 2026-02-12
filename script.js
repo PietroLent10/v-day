@@ -13,7 +13,7 @@ const noMessages = [
     "No",
     "Non puoi cambiare idea ora!! 🤔",
     "Pupina nuuuu... 🥺",
-    "Se dici di noi, mi spezzi il cuoricino...",
+    "Se dici di no, mi spezzi il cuoricino...",
     "Ok sono triste... 😢",
     "Sono offeso?!? 💔",
     "Non ti lascerò più dolcini!!!...",
